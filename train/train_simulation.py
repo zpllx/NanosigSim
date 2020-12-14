@@ -115,7 +115,6 @@ def  train_simulation(args):
         # init all variables
         # sess.run(init_op)
         saver.restore(sess=sess,save_path=restore_path)
-        print("hahhahahhaahahahha!")
         
         coord = tf.train.Coordinator()
         threads = tf.train.start_queue_runners(sess=sess, coord=coord)
