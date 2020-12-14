@@ -18,7 +18,7 @@ Oxford Nanopore sequencing is an important sequencing technology, which reads th
 `python train_simulation.py -p tfrecords -o model` 
 
 
-# Simulated Signal VS Real Raw Signal
+# Real Raw Signal VS Simulated Signal
 ## Real Raw Signal
 ![image](https://github.com/zpllx/NanosigSim/blob/main/simulation/example/Real%20raw%20signal.jpeg)
 ## Simulated Signal
