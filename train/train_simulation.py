@@ -148,7 +148,7 @@ def  train_simulation(args):
 
 if __name__ == '__main__':
     
-    parser = argparse.ArgumentParser(description = 'Train Nano_simulation network')
+    parser = argparse.ArgumentParser(description = 'Train NanosigSim network')
     parser.add_argument('-p', '--path', type=str, help= 'Top directory path of train files')
     parser.add_argument('-o', '--output', type=str, default="model/", help= 'The base directory for the model')
     args = parser.parse_args()
