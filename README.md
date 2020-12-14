@@ -9,6 +9,6 @@ Oxford Nanopore sequencing is an important sequencing technology, which reads th
 `<python signal_simulation.py -i fasta/1.fasta -m model -o simulation>` 
 ## Simulate the signals for multiple given sequences
 `<python signal_simulation.py -p fasta -m model -o simulation>` 
-## train the signal processing model based on BiGRU
+## Train the signal processing model based on BiGRU
 `<python create_train_tfrecord.py -p train_data -o tfrecords>` 
 `<python train_simulation.py -p tfrecords -o model>` 
