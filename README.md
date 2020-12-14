@@ -22,5 +22,5 @@ Oxford Nanopore sequencing is an important sequencing technology, which reads th
 ## Real Raw Signal
 ![image](https://github.com/zpllx/NanosigSim/blob/main/simulation/example/Real%20raw%20signal.jpeg)
 ## Simulated Signal
-
+![image](https://github.com/zpllx/NanosigSim/blob/main/simulation/example/Simulated%20signal.jpeg)
 
