@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 20 20:58:31 2020
-
-@author: ZhangPeng
-"""
 import  os
 import  argparse 
 import  sys
