@@ -16,3 +16,9 @@ Oxford Nanopore sequencing is an important sequencing technology, which reads th
 ## Train the signal processing model based on BiGRU
 `python create_train_tfrecord.py -p train_data -o tfrecords`   
 `python train_simulation.py -p tfrecords -o model` 
+
+
+# Simulated Signal VS Real Raw Signal
+## Simulated Signal
+
+## Real Raw Signal
